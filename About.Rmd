@@ -1,0 +1,10 @@
+---
+title: "About"
+output: html_document
+---
+
+## Welcome
+
+This is Kiwi Yu's portfolio for ANLY 503. It includes the homework for this course as well as the final project. I hope you will enjoy my work.
+
+<img src="https://github.com/ikiwisline/ANLY-503_Portfolio/blob/main/plot/BG1.png?raw=true">
