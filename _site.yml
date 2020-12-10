@@ -1,0 +1,15 @@
+name: "Kiwi-Portfolio"
+output_dir: "."
+navbar:
+  title: "Kiwi-Portfolio"
+  left:
+    - text: "About"
+      href: About.html
+    - text: "HW"
+      href: HW.html
+    - text: "Final_Project"
+      href: Final_Project.html
+      output:
+  html_document:
+    theme: cosmo
+    css: styles.css
