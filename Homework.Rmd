@@ -1,0 +1,68 @@
+---
+title: "Homework"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Homework5
+==================
+### Problem1
+
+<img src="https://github.com/ikiwisline/ANLY-503_Portfolio/blob/main/plot/5.1.png?raw=true">
+
+### Problem2
+
+<img src="https://github.com/ikiwisline/ANLY-503_Portfolio/blob/main/plot/5.2.png?raw=true">
+
+### Problem3
+
+<img src="https://github.com/ikiwisline/ANLY-503_Portfolio/blob/main/plot/5.31.png?raw=true">
+<br>
+<img src="https://github.com/ikiwisline/ANLY-503_Portfolio/blob/main/plot/5.32.png?raw=true">
+
+### Problem4
+
+<img src="https://github.com/ikiwisline/ANLY-503_Portfolio/blob/main/plot/5.41.png?raw=true">
+<br>
+<img src="https://github.com/ikiwisline/ANLY-503_Portfolio/blob/main/plot/5.42.png?raw=true">
+<br>
+<img src="https://github.com/ikiwisline/ANLY-503_Portfolio/blob/main/plot/5.43.png?raw=true">
+
+### Problem5
+
+<img src="https://github.com/ikiwisline/ANLY-503_Portfolio/blob/main/plot/5.5.png?raw=true">
+
+
+
+
+
+
+Homework6
+==================
+
+### California Voting and Employment Map
+<img src="https://github.com/ikiwisline/ANLY-503_Portfolio/blob/main/plot/H6.1.png?raw=true">
+
+### Texas Voting and Employment Map
+<img src="https://github.com/ikiwisline/ANLY-503_Portfolio/blob/main/plot/H6.2.png?raw=true">
+
+### Pennsylvania Voting and Employment Map
+<img src="https://github.com/ikiwisline/ANLY-503_Portfolio/blob/main/plot/H6.3.png?raw=true">
+
+
+
+
+
+
+
+
+
+Homework7
+==================
+<img src="https://github.com/ikiwisline/ANLY-503_Portfolio/blob/main/plot/h7.png?raw=true">
+
+
+
+
