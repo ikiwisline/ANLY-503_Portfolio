@@ -1,0 +1,21 @@
+name: "Kiwi-Portfolio"
+output_dir: "."
+navbar:
+  title: "Kiwi-Portfolio"
+  left:
+    - text: "About"
+      href: About.html
+    - text: "Homework"
+      href: Homework.html
+    - text: "Final_Project"
+      href: Final_Project.html
+      output:
+  right:
+    - icon: fa-github fa-lg
+      href:https://github.com/ikiwisline/ANLY-503_Portfolio
+output
+  html_document:
+    theme: cosmo
+    include:
+      after_body: footer.html
+    css: styles.css
